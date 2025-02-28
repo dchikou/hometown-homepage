@@ -45,7 +45,7 @@ h3 {
     height: 400px;
     background-image: url("https://wanderthemap.com/wp-content/uploads/2020/02/Hiking_in_Churchill_Manitoba_Canada_Featured.jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 #activity {
