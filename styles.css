@@ -45,7 +45,7 @@ h3 {
     height: 400px;
     background-image: url("https://www.canadatravelspecialists.com/media/1865/eat-header.jpg?width=412&height=250&mode=crop&format=jpg&center=0.5%2C0.5%2C0.5%2C0.5&quality=80");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 #activity {
